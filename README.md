@@ -62,7 +62,7 @@ __Popularity Trends__: Popularity scoring revealed a consistent trend, with one 
 
 Files Included:
 
-__Raw Data__: Eknath_RawTweets.csv and Uddhav_RawTweets.csv containing tweet data.
+__Raw Data__: Eknath_RawTweets.csv and Uddhav_RawTweets.csv containing tweet data (Contained in Raw_Tweets.zip)
 
 __Scripts__:
 
